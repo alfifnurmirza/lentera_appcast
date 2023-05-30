@@ -3,10 +3,10 @@
   <channel>
     <title>For unit test only</title>
     <item>
-        <title>Version 2.0</title>
-        <description>desc Версия</description>
+        <title>Version 1.0.14</title>
+        <sparkle:version>1.0.14</sparkle:version>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.id.lentera" sparkle:version="2.0" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.id.lentera" sparkle:version="1.0.14" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- The best chosen release -->
