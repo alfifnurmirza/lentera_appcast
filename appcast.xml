@@ -10,10 +10,10 @@
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item> -->
     <item>
-        <title>Version 1.1.1</title>
-        <sparkle:version>1.1.1</sparkle:version>
-        <pubDate>Thu, 2 Jun 2023 12:31:00 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.id.lentera" sparkle:version="1.0.15" sparkle:os="android" />
+        <title>Version 1.1.2</title>
+        <sparkle:version>1.1.2</sparkle:version>
+        <pubDate>Thu, 12 Jun 2023 12:31:00 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.id.lentera" sparkle:version="1.1.2" sparkle:os="android" />
 <!--         <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion> -->
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
